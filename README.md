@@ -1,1 +1,1 @@
-Cordova Examples
+Simple Cordova Examples
